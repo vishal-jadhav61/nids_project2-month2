@@ -49,3 +49,4 @@ o Description of simulated attacks and results
 
 o False positive analysis and optimizations
 
+{for more detailes kindly check the snort_project2-month2.pdf file}
